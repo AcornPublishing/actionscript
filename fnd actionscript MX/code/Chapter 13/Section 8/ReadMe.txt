@@ -1,0 +1,1 @@
+On page 469 of the book, the file stun_ch11back.fla is referred to. This is an error and the text should refer to stun_section8.fla. There is no file named stun_ch11back.fla.

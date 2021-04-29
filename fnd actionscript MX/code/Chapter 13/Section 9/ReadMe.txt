@@ -1,0 +1,1 @@
+On page 471 the file stun_soundControlB.fla is referred to. This is an error, and the text should refer to the file stun_soundControlFinal.fla.
